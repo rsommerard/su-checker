@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuChecker</string>
+    <string name="click_on_the_button">Click on the button!</string>
+    <string name="check_su">Check SU</string>
+</resources>
